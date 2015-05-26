@@ -1,0 +1,21 @@
+{
+  "name": "websaemma",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "app/saemma.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eelmoni/websaemma.git"
+  },
+  "keywords": [
+    "Website"
+  ],
+  "author": "Emmanuel",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/eelmoni/websaemma/issues"
+  }
+}

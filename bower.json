@@ -1,0 +1,26 @@
+{
+  "name": "websaemma",
+  "version": "1.0.0",
+  "description": "Web SAEMMA",
+  "main": "app/dist/saemma.js",
+  "keywords": [],
+  "authors": [
+    "eelmoni"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4",
+    "requirejs": "~2.1.17",
+    "require-css": "~0.1.8",
+    "bootflatv2": "~2.0.4"
+  }
+}
